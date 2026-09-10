@@ -90,13 +90,9 @@ The project includes visualizations for:
 - The **7-day moving average** helped reduce daily fluctuations and provided a clearer view of overall trends.
 - India and Brazil showed significant growth patterns during their respective peak periods.
 
----
 
-## 📁 Project Structure
+👨‍💻 Author
+Barathala Vishwesh
 
-```text
-COVID-19-Data-Analysis/
-│
-├── Covid-19 Analysis.ipynb
-├── owid-covid-data.csv
-└── README.md
+📊 Aspiring Data Analyst
+🐍 Python | 🗄️ SQL | 📈 Excel | 📊 Power BI
